@@ -1,4 +1,4 @@
-![cover photo](https://www.canva.com/design/DAG5IusZKLo/7Y5gKze6WhOiNbqFME3QXA/view?utm_content=DAG5IusZKLo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcd626e45df)
+![cover photo](https://i.postimg.cc/dtDH74Wq/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
 
 About Me 
  I am a MERN Stack Developer
