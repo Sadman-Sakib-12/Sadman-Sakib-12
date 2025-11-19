@@ -1,4 +1,4 @@
-Teal and Black Modern Programmer New LinkedIn Banner (1).png
+[Teal and Black Modern Programmer New LinkedIn Banner (1).png](https://www.canva.com/design/DAG5IusZKLo/7Y5gKze6WhOiNbqFME3QXA/view?utm_content=DAG5IusZKLo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcd626e45df)
 
 About Me 
  I am a MERN Stack Developer
