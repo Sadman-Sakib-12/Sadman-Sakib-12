@@ -1,19 +1,10 @@
-## Hi there 👋
-
-<!--
-**Sadman-Sakib-12/Sadman-Sakib-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+about  me 
+ I am a MERN Stack Developer
+🔥 Expert in Node.js, Express.js, React, Redux, Firebase
+☁️ Deployment experience with Vercel, Netlify, Surge
+🛠️ Skilled in Git, REST API, Project Architecture
+💡 Passionate about building scalable & responsive web apps
+🎯 Always learning new tech and improving my coding craft
 
 # 💻 Tech Stack:
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
