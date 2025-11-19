@@ -1,3 +1,5 @@
+Teal and Black Modern Programmer New LinkedIn Banner (1).png
+
 About Me 
  I am a MERN Stack Developer
 🔥 Expert in Node.js, Express.js, React, Redux, Firebase
