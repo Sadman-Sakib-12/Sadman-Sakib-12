@@ -4,7 +4,7 @@ About Me
  I am a MERN Stack Developer
 🔥 Expert in Node.js, Express.js, React, Redux, Firebase
 
-☁️ Deployment experience with Vercel, Netlify, Surge
+☁️ Deployment experience with Vercel, Netlify, Surge,Firebase
 
 🛠️ Skilled in Git, REST API, Project Architecture
 
