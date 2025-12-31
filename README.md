@@ -1,4 +1,4 @@
-![cover photo](https://i.postimg.cc/dtDH74Wq/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png)
+![cover photo](https://i.postimg.cc/xdqyLXLs/Blue-and-White-Illustrated-Welcome-Banner.jpg)
 
 About Me 
  I am a MERN Stack Developer
