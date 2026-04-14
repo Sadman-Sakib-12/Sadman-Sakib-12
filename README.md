@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sadman Sakib</h1>
-<h3 align="center">💻 MERN Stack Developer | Bangladesh 🇧🇩</h3>
+<h3 align="center">💻 MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;React+Developer;Backend+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer" />
 </p>
 
 ---
