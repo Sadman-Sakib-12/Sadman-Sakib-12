@@ -30,35 +30,57 @@ I am a dedicated **MERN Stack Developer** with a focus on building clean, respon
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Engineering
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3 align="center">01. ETuition BD</h3>
-      <a href="https://etuitionbd-b71b0.web.app" target="_blank">
-        <img src="https://i.ibb.co.com/N2rGmBrw/Annotation-2026-04-14-185750.jpg" width="100%" alt="ETuition BD"/>
-      </a>
-      <p align="center">
-        <b>Find the perfect tutor.</b><br>
-        <i>React, Node.js, MongoDB, Tailwind</i><br>
-        <a href="https://etuitionbd-b71b0.web.app">Live Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">02. Pawmart</h3>
-      <a href="https://cool-meringue-f91a26.netlify.app" target="_blank">
-        <img src="https://i.ibb.co.com/FLqr6Fzq/Annotation-2026-04-14-200500.jpg" width="100%" alt="Pawmart"/>
-      </a>
-      <p align="center">
-        <b>One-stop Pet Shop & Adoption.</b><br>
-        <i>MERN Stack, Firebase, Tailwind</i><br>
-        <a href="https://cool-meringue-f91a26.netlify.app">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="55%" align="center">
+        <a href="https://etuitionbd-b71b0.web.app" target="_blank">
+          <img src="https://i.ibb.co.com/N2rGmBrw/Annotation-2026-04-14-185750.jpg" width="100%" style="border-radius:8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); border: 1.5px solid #30363d;" alt="ETuition BD"/>
+        </a>
+      </td>
+      <td width="45%" valign="top" style="padding-left: 25px;">
+        <br/>
+        <h3 style="margin-top:0;">🟢 ETuition BD</h3>
+        <p><strong>Find the perfect tutor for your academic success.</strong></p>
+        <p>A specialized platform connecting students with professional tutors through real-time analytics.</p>
+        <p><b>Core Arsenal:</b> React 19, Node.js, MongoDB, Tailwind, Firebase.</p>
+        <p>
+          <a href="https://etuitionbd-b71b0.web.app">🔗 Live App</a> | 
+          <a href="https://github.com/Sadman-Sakib-12">💻 Client</a> | 
+          <a href="https://github.com/Sadman-Sakib-12">⚙️ Server</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br/><br/>
+
+<div align="left">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="45%" valign="top" style="padding-right: 25px;">
+        <br/>
+        <h3 style="margin-top:0;">🔴 Pawmart</h3>
+        <p><strong>One-stop Pet Shop & Adoption Ecosystem.</strong></p>
+        <p>Engineered a high-performance MERN architecture with secure checkout and role-based access.</p>
+        <p><b>Core Arsenal:</b> MERN Stack, Express.js, MongoDB, Stripe, Firebase.</p>
+        <p>
+          <a href="https://cool-meringue-f91a26.netlify.app">🔗 Live App</a> | 
+          <a href="https://github.com/Sadman-Sakib-12">💻 Client</a> | 
+          <a href="https://github.com/Sadman-Sakib-12">⚙️ Server</a>
+        </p>
+      </td>
+      <td width="55%" align="center">
+        <a href="https://cool-meringue-f91a26.netlify.app" target="_blank">
+          <img src="https://i.ibb.co.com/FLqr6Fzq/Annotation-2026-04-14-200500.jpg" width="100%" style="border-radius:8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); border: 1.5px solid #30363d;" alt="Pawmart"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### 📊 GitHub Activity & Stats  
